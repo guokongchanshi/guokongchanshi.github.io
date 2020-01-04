@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-01-04T12:35:50.055Z</updated>
+  <updated>2020-01-04T13:27:05.700Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,14 +20,30 @@
     <title>test</title>
     <link href="http://yoursite.com/2020/01/04/test/"/>
     <id>http://yoursite.com/2020/01/04/test/</id>
-    <published>2020-01-04T12:35:50.000Z</published>
-    <updated>2020-01-04T12:35:50.055Z</updated>
+    <published>2020-01-04T13:27:05.700Z</published>
+    <updated>2020-01-04T13:27:05.700Z</updated>
+    
+    <content type="html"><![CDATA[<p>这是测试内容</p>]]></content>
     
     <summary type="html">
+    
+      
+      
+        &lt;p&gt;这是测试内容&lt;/p&gt;
+
+      
     
     </summary>
     
     
+      <category term="打坐" scheme="http://yoursite.com/categories/%E6%89%93%E5%9D%90/"/>
+    
+      <category term="禅定" scheme="http://yoursite.com/categories/%E6%89%93%E5%9D%90/%E7%A6%85%E5%AE%9A/"/>
+    
+    
+      <category term="快乐" scheme="http://yoursite.com/tags/%E5%BF%AB%E4%B9%90/"/>
+    
+      <category term="幸福" scheme="http://yoursite.com/tags/%E5%B9%B8%E7%A6%8F/"/>
     
   </entry>
   
