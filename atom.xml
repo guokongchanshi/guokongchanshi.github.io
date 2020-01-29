@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-01-05T10:54:11.170Z</updated>
+  <updated>2020-01-29T10:47:04.554Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test2</title>
+    <link href="http://yoursite.com/2020/01/29/testfolder/test2/"/>
+    <id>http://yoursite.com/2020/01/29/testfolder/test2/</id>
+    <published>2020-01-29T10:47:04.554Z</published>
+    <updated>2020-01-29T10:47:04.554Z</updated>
+    
+    <content type="html"><![CDATA[<p>wwwwwwwwwww</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;wwwwwwwwwww&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+      <category term="答疑释惑" scheme="http://yoursite.com/categories/%E7%AD%94%E7%96%91%E9%87%8A%E6%83%91/"/>
+    
+    
+      <category term="快乐" scheme="http://yoursite.com/tags/%E5%BF%AB%E4%B9%90/"/>
+    
+      <category term="幸福" scheme="http://yoursite.com/tags/%E5%B9%B8%E7%A6%8F/"/>
+    
+  </entry>
   
   <entry>
     <title>test</title>
